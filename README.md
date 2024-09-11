@@ -3,7 +3,7 @@
 -*Meu Nome é Nickolas Henrique do Prado*-
 -
 
-->_Prodigio em Todo Tipo de Lógica, matemática, filosofia, progamação_; 🥇🧑‍🎓
+->_Prodigio em Todo Tipo de Lógica, Matemática, Filosofia, Progamação_; 🥇🧑‍🎓
 
 ->_Futuro Progamador de Frontend e Backend_;🎓
 
