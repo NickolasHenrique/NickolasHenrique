@@ -1,16 +1,22 @@
-## Hi there 👋
+## -Boas Vindas Ao Meu Perfil 💚-
 
-<!--
-**NickolasHenrique/NickolasHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-*Meu Nome é Nickolas Henrique do Prado*-
+-
 
-Here are some ideas to get you started:
+->_Prodigio em Todo Tipo de Lógica, matemática, filosofia, progamação_; 🥇🧑‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+->_Futuro Progamador de Frontend e Backend_;🎓
+
+->_Cristão, Estoico na Medida do Possível_;💡
+
+->Utilizo o GitHub Pra me Organizar e Compartilhar Meus Projetos ↗️
+
+### -Quer Entrar em Contato❓-
+
+--- 00001132348791sp@al.educacao.sp.gov.br - Email Institucional
+
+--- nickolasprado0302@gmail - Email Pessoal
+
+--- nickolashp_ - Instagram
+
+![](https://media1.tenor.com/m/4AZOwG7lc8UAAAAC/polnareff-polnareff-jojo.gif)
