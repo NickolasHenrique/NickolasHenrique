@@ -9,7 +9,7 @@
 
 ->_Cristão, Estoico na Medida do Possível_;💡
 
-->Utilizo o GitHub Pra me Organizar e Compartilhar Meus Projetos ↗️
+->Utilizo o GitHub Pra me Organizar e Compartilhar Meus Projetos. ↗️
 
 ### -Quer Entrar em Contato❓-
 
